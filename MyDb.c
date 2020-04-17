@@ -29,7 +29,7 @@ int main(void) {
 		printf("%d", R1);
 		break;
 	}while (R1 <4);
-	return 0;
+	return sd;
 }
 
 
